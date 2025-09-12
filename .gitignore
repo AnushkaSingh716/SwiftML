@@ -1,0 +1,10 @@
+.venv/
+misc/
+__pycache__/
+
+logs.log
+.env
+ToDo
+dl.py
+run.bat
+install.bat
