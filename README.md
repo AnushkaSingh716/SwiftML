@@ -3,7 +3,6 @@
 ![PyCaret](https://img.shields.io/badge/PyCaret-2.3.10-success)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28.1-red)
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 A powerful Streamlit-based web interface for PyCaret that democratizes machine learning by enabling users to build, evaluate, and deploy ML models through an intuitive browser interface - no coding required.
 
