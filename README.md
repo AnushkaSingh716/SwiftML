@@ -14,13 +14,13 @@ Experience SwiftML directly in your browser: [https://swiftml.onrender.com/](htt
 
 ## ✨ Features
 
-- **Automated Machine Learning**: Automatically finds the best ML algorithms for your dataset
-- **User-Friendly Interface**: Intuitive web-based interface requiring no programming knowledge
-- **Comprehensive Model Evaluation**: Rigorous testing and validation of selected models
+- **Automated Machine Learning**: Automatically finds the best ML algorithms for your dataset.
+- **User-Friendly Interface**: Intuitive web-based interface requiring no programming knowledge.
+- **Comprehensive Model Evaluation**: Rigorous testing and validation of selected models.
 - **Multiple Data Format Support**:
   - CSV files (with more formats coming soon)
-- **Model Export**: Download your trained models for deployment
-- **Collaboration Friendly**: Share insights and results with team members
+- **Model Export**: Download your trained models for deployment.
+- **Collaboration Friendly**: Share insights and results with team members.
 
 ## 🚀 Quick Start
 
