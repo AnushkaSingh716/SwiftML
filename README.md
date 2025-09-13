@@ -8,7 +8,7 @@ A powerful Streamlit-based web interface for PyCaret that democratizes machine l
 
 ![SwiftML Interface](assets/github/ss1.png)
 
-## 🌐 Live Demo
+## Live Demo
 
 Experience SwiftML directly in your browser: [https://swiftml.onrender.com/](https://swiftml.onrender.com/)
 
